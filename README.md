@@ -1,4 +1,4 @@
-# Covid-19-Data-Explorer-SQL-Project
+# Covid-19 By Population
 
 ![1](https://github.com/vynguyen254/Covid-19-Data-Explorer-SQL-Project/assets/94723465/357b511a-ac5d-4127-aa39-9e8f4334692b)
 ![2](https://github.com/vynguyen254/Covid-19-Data-Explorer-SQL-Project/assets/94723465/6daad91f-1f76-4327-beeb-5dcb90f2c3a9)
