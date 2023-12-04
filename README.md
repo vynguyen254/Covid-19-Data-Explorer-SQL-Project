@@ -1,5 +1,6 @@
-# Covid-19 by Population
 This repository contains all queries and visualization related to data exploration of COVID-19 using SQL(SSMS) and Tableau. In this project, I wanted to look at the impact of COVID-19 on regions across the world. I utilized SQL to extract, transform, and filter data by using aggregating and filtering functions. Finally, I loaded and visualized data in tables, bar charts, line charts, and maps.
+
+# Covid-19 by Population
 ![1](https://github.com/vynguyen254/Covid-19-Data-Explorer-SQL-Project/assets/94723465/357b511a-ac5d-4127-aa39-9e8f4334692b)
 The table shows the Death rate of COVID-19 globally from 2020 to 2023. 
 ![2](https://github.com/vynguyen254/Covid-19-Data-Explorer-SQL-Project/assets/94723465/6daad91f-1f76-4327-beeb-5dcb90f2c3a9)
